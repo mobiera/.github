@@ -9,11 +9,4 @@ Verify trusted credentials issued by your organisation or your partners, to secu
 
 Perform biometric authentication to compare user's face with embeded photo in Verifiable Credential.
 
-And many more...
-
-## Getting Started
-
-
-
-
-
+And many more!
