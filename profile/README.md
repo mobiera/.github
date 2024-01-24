@@ -1,6 +1,6 @@
 # Verifiable Credentials & Authentic Data
 
-![2060 logo](assets/2060_logo.svg)
+![2060 logo](profile/assets/2060_logo.svg)
 
 Open-source tools that enable building Verifiable Credential solutions embedding [OpenID for Verifiable Credentials](https://openid.net/sg/openid4vc/) and [didcomm](https://github.com/decentralized-identity/didcomm-messaging)-based auditable chat messaging services, combining text, pictures, videos, voice, biometric user authentication, and more.
 
