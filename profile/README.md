@@ -1,7 +1,3 @@
-# 🔗 The Missing Link
-
-Bridge the gap between telecom operators and solution vendors to facilitate the exchange of knowledge and expertise, and foster collaborations.
-
 ## 💡 Innovation Driven
 
 Mobiera is an innovation-driven tech company delivering digital platforms across LATAM,
