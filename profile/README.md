@@ -6,5 +6,5 @@ solutions deployed across 1.2B mobile users, we’re reshaping enterprise engage
 AI, DevSecOps, and digital identity.
 
 Our latest product, AI One, is a revolutionary platform
-for deploying intelligent agents that improve customer experience, reduce costs, and
+for **deploying intelligent verifiable agents** that improve customer experience, reduce costs, and
 secure digital interactions for telecoms, banks, and enterprise-grade organizations.
